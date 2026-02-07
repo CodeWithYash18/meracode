@@ -1,2 +1,3 @@
 # meracode
-My programs
+My first Repository
+Author - Yash Kumar
